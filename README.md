@@ -1,15 +1,15 @@
 
 <h1 align="center">🙋‍♂️안녕하십니까 프론트엔드 개발자 박준규 입니다!</h1>
 
-<p align="center">
-🌱 잔디 열심히 심어서 자연농원<p align="center">
-  
+<p align="center">  
 🌱 잔디 열심히 심어서 자연농원 만들기<br/>
 🎯 오늘도 버그랑 맞짱뜨는 중입니다<br/>
 🧠 생각하는 개발자, 성장하는 인간이 목표예요  
 </p>
 
+
 ## 💻 Tech Stack
+
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>
@@ -38,20 +38,20 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nbc7799&layout=compact&theme=radical" width="49%" />
 </div>
 
----
+
 
 ## 📝 블로그
 
 - 📚 개발 공부 기록 중!  
 [https://sinbakhae.tistory.com/](https://sinbakhae.tistory.com/)
 
----
+
 
 ## 😎 연락
 
 - 📫 이메일: pjg408@gmail.com
 
----
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
