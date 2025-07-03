@@ -39,13 +39,13 @@
 </div>
 
 
-
+</br>
 ## 📝 블로그
 
 - 📚 개발 공부 기록 중!  
 [https://sinbakhae.tistory.com/](https://sinbakhae.tistory.com/)
 
-
+</br>
 
 ## 😎 연락
 
@@ -53,12 +53,3 @@
 
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
