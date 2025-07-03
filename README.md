@@ -3,13 +3,12 @@
 
 <p align="center">  
 🌱 잔디 열심히 심어서 자연농원 만들기<br/>
-🎯 오늘도 버그랑 맞짱뜨는 중입니다<br/>
-🧠 생각하는 개발자, 성장하는 인간이 목표예요  
+🐢 느리지만 꾸준히 발전하는 개발자, 성장하는 인간이고 싶습니다<br/>
 </p>
 
 
 ## 💻 Tech Stack
-
+(아직 희망사항)
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>
@@ -32,7 +31,7 @@
 </div>
 
 ## 📊 GitHub Stats
-
+(처참하네요)
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nbc7799&show_icons=true&theme=radical" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nbc7799&layout=compact&theme=radical" width="49%" />
