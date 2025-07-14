@@ -39,9 +39,10 @@
 
 
 </br>
-## 📝 블로그
+
 
 ## 📚 개발 공부 기록 중!  
+## 📝 블로그
 [https://sinbakhae.tistory.com/](https://sinbakhae.tistory.com/)
 
 </br>
