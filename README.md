@@ -7,7 +7,7 @@
 </p>
 </br>
 
-## 💻 Tech Stack
+💻 Tech Stack
 (아직 희망사항)
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
 </div>
 
-## 📊 GitHub Stats
+📊 GitHub Stats
 (처참하네요)
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nbc7799&show_icons=true&theme=radical" width="49%" />
@@ -39,14 +39,14 @@
 
 
 </br>
-## 📝 블로그
+📝 블로그
 
-- 📚 개발 공부 기록 중!  
+📚 개발 공부 기록 중!  
 [https://sinbakhae.tistory.com/](https://sinbakhae.tistory.com/)
 
 </br>
 
-## 😎 연락
+😎 연락
 
 - 📫 이메일: pjg408@gmail.com
 
