@@ -59,11 +59,10 @@
   height="300"
 />
 </a>
-<a href="https://www.gitanimals.org/">
-      <img
-        src="https://render.gitanimals.org/guilds/718880218684969028/draw"
-        width="600"
-        height="300"
-        alt="gitanimals"
-      />
-    </a>
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=nbc7799&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/nbc7799"
+  width="600"
+  height="300"
+/>
+</a>
